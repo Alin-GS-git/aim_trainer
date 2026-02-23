@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\TargetShooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TargetShooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\MissCounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MissCounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\ScoreCounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ScoreCounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\MovingTarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MovingTarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\GameModeManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameModeManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\HighScoreUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HighScoreUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\HighScoreManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HighScoreManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\Gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\ArenaBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ArenaBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScoreCounter.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\ScoreCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreCounter.cs",
+              "ToolTip": "C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\ScoreCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreCounter.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:31:09.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovingTarget.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\MovingTarget.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovingTarget.cs",
+              "ToolTip": "C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\MovingTarget.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovingTarget.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:20:46.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameModeManager.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\GameModeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameModeManager.cs",
+              "ToolTip": "C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\GameModeManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameModeManager.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:15:50.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T07:41:13.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HighScoreUI.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\HighScoreUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HighScoreUI.cs",
+              "ToolTip": "C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\HighScoreUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HighScoreUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T07:33:06.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HighScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\HighScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HighScoreManager.cs",
+              "ToolTip": "C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\HighScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HighScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T07:26:04.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MissCounter.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\MissCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MissCounter.cs",
+              "ToolTip": "C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\MissCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MissCounter.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T07:19:39.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\Gun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gun.cs",
+              "ToolTip": "C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\Gun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gun.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T06:17:23.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TargetShooter.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\TargetShooter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TargetShooter.cs",
+              "ToolTip": "C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\TargetShooter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TargetShooter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T06:03:25.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArenaBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\ArenaBuilder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ArenaBuilder.cs",
+              "ToolTip": "C:\\Users\\LEGION\\OneDrive\\Desktop\\UNITY-20260222T135713Z-1-001\\UNITY\\AimTrainer\\Assets\\Scripts\\ArenaBuilder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ArenaBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T15:02:57.798Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
